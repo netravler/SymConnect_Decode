@@ -1,0 +1,12 @@
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\bin\Debug\SymConnect_Decode.exe.manifest
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\bin\Debug\SymConnect_Decode.application
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\bin\Debug\SymConnect_Decode.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\bin\Debug\SymConnect_Decode.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\obj\x86\Debug\SymConnect_Decode.Form1.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\obj\x86\Debug\SymConnect_Decode.Properties.Resources.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\obj\x86\Debug\SymConnect_Decode.csproj.GenerateResource.Cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\obj\x86\Debug\SymConnect_Decode.exe.manifest
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\obj\x86\Debug\SymConnect_Decode.application
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\obj\x86\Debug\SymConnect_Decode.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\obj\x86\Debug\SymConnect_Decode.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\SymConnect_Decode\SymConnect_Decode\obj\x86\Debug\SymConnect_Decode.csprojResolveAssemblyReference.cache
